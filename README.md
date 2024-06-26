@@ -54,7 +54,7 @@ This is a simple Password Manager application built using Python and Tkinter. It
 
 ## License
 
-This project is licensed under the MIT License.
+None.
 
 ## Acknowledgments
 
